@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-02-19T19:52:55.979Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="jENPNtyntDS3AEjBXotQ" version="14.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-19T19:57:39.756Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="CGpDjIxJSiHbnGmNljwH" version="14.4.2" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1422" dy="882" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2591" dy="882" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -90,20 +90,17 @@
         <mxCell id="1f6V_7u13nr4Cq0EWLbW-27" value="Add Photos&lt;br&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="279" y="719.5" width="160" height="91" as="geometry" />
         </mxCell>
-        <mxCell id="1f6V_7u13nr4Cq0EWLbW-31" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="1f6V_7u13nr4Cq0EWLbW-31" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontColor=#FFFFFF;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="49" y="100" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="1f6V_7u13nr4Cq0EWLbW-32" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="350" y="360" width="60" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="1f6V_7u13nr4Cq0EWLbW-33" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;rotation=80;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="140" y="44.5" width="41" height="95.5" as="geometry" />
+          <mxGeometry x="141.5" y="64.5" width="41" height="95.5" as="geometry" />
         </mxCell>
         <mxCell id="1f6V_7u13nr4Cq0EWLbW-34" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;rotation=84;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="118.5" y="64.5" width="41" height="95.5" as="geometry" />
+          <mxGeometry x="120" y="84.5" width="41" height="95.5" as="geometry" />
         </mxCell>
-        <mxCell id="1f6V_7u13nr4Cq0EWLbW-36" value="Visual Inspection &lt;br&gt;of Marker and review &lt;br&gt;of Scouting Data" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="10" y="20" width="130" height="50" as="geometry" />
+        <mxCell id="1f6V_7u13nr4Cq0EWLbW-36" value="&lt;b style=&quot;font-size: 15px&quot;&gt;Visual Inspection &lt;br&gt;of Marker and review &lt;br&gt;of Scouting Data&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-5" y="20" width="160" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
