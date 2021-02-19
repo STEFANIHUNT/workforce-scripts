@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-02-19T19:57:39.756Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="CGpDjIxJSiHbnGmNljwH" version="14.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-19T20:02:10.822Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="E1oAlxAvmxWkq4-rNi4U" version="14.4.2" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="2591" dy="882" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2591" dy="849" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -40,7 +40,7 @@
           <mxGeometry x="79" y="730" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="1f6V_7u13nr4Cq0EWLbW-9" value="Marker is &lt;br&gt;Passed to Inspector for Verification" style="ellipse;whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=1;glass=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="519" y="711.25" width="160" height="107.5" as="geometry" />
+          <mxGeometry x="490" y="711.25" width="160" height="107.5" as="geometry" />
         </mxCell>
         <mxCell id="1f6V_7u13nr4Cq0EWLbW-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="1f6V_7u13nr4Cq0EWLbW-11" target="WIyWlLk6GJQsqaUBKTNV-11">
           <mxGeometry relative="1" as="geometry" />
@@ -48,8 +48,8 @@
         <mxCell id="1f6V_7u13nr4Cq0EWLbW-11" value="Los, Marker Type, &lt;br&gt;Offset, Dig Required&lt;br&gt;etc all correct?" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="69" y="390" width="140" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="1f6V_7u13nr4Cq0EWLbW-14" value="Change&lt;br&gt;Work Required = &lt;br&gt;No Work Needed" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="64" y="610" width="150" height="70" as="geometry" />
+        <mxCell id="1f6V_7u13nr4Cq0EWLbW-14" value="Do Not Change Work Required. Inspector Will Change if They agree No Work is Needed" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="64" y="610" width="150" height="90" as="geometry" />
         </mxCell>
         <mxCell id="1f6V_7u13nr4Cq0EWLbW-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-11" target="1f6V_7u13nr4Cq0EWLbW-14">
           <mxGeometry relative="1" as="geometry">
@@ -88,7 +88,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1f6V_7u13nr4Cq0EWLbW-27" value="Add Photos&lt;br&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="279" y="719.5" width="160" height="91" as="geometry" />
+          <mxGeometry x="260" y="719.5" width="160" height="91" as="geometry" />
         </mxCell>
         <mxCell id="1f6V_7u13nr4Cq0EWLbW-31" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontColor=#FFFFFF;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="49" y="100" width="30" height="60" as="geometry" />
